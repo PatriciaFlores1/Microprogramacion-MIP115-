@@ -33,7 +33,7 @@ Específicos:
 3. Conocer los diferentes sistemas numéricos.​
 4. Realizar conversiones entre los diferentes sistemas de numeración.
 
-*CONTENIDOS
+CONTENIDOS
 
 1. Historia.
 2. Evolución de los lenguajes de Programación.
