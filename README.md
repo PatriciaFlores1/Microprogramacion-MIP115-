@@ -20,7 +20,8 @@ Contenido del Repositorio:
 
 # Unidad I. Introducción al lenguaje Ensamblador
 
-*OBJETIVOS
+OBJETIVOS
+
 General:
 
 1. Estudiar la evolución de los lenguajes de programación
