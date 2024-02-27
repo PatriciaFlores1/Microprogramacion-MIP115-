@@ -6,19 +6,15 @@ Este espacio está dedicado a recopilar y organizar todos los recursos relaciona
 
 Contenido del Repositorio:
 
-Apuntes y Documentación:
-    
-    Notas de clase, presentaciones y documentación detallada para comprender los conceptos fundamentales de microprogramación.
+✅ Apuntes y Documentación:
+    ➡️Notas de clase, presentaciones y documentación detallada para comprender los conceptos fundamentales de microprogramación.
 
-Ejemplos de Código:
-    
-    Implementaciones prácticas y ejemplos de código que ilustran los conceptos teóricos de la microprogramación.
+✅ Ejemplos de Código:
+    ➡️Implementaciones prácticas y ejemplos de código que ilustran los conceptos teóricos de la microprogramación.
 
-Proyectos Prácticos:
-    
-    Desafíos y proyectos prácticos para aplicar los conocimientos adquiridos y fortalecer las habilidades de programación a nivel de microinstrucciones.
+✅ Proyectos Prácticos:
+    ➡️Desafíos y proyectos prácticos para aplicar los conocimientos adquiridos y fortalecer las habilidades de programación a nivel de microinstrucciones.
 
-Recursos Adicionales:
-    
-    Enlaces a libros, artículos y tutoriales recomendados para ampliar el entendimiento de la microprogramación.
+✅ Recursos Adicionales:
+    ➡️Enlaces a libros, artículos y tutoriales recomendados para ampliar el entendimiento de la microprogramación.
 
