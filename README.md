@@ -18,3 +18,21 @@ Contenido del Repositorio:
 ✅ Recursos Adicionales:
     ➡️Enlaces a libros, artículos y tutoriales recomendados para ampliar el entendimiento de la microprogramación.
 
+# Unidad I. Introducción al lenguaje Ensamblador
+
+*OBJETIVOS
+General:
+
+1. Estudiar la evolución de los lenguajes de programación
+
+Específicos:
+
+1. Conocer la historia de los lenguajes de programación​
+2. Definir la clasificación de los lenguajes de programación
+3. Conocer los diferentes sistemas numéricos.​
+4. Realizar conversiones entre los diferentes sistemas de numeración.
+
+*CONTENIDOS
+
+1.1 Historia y Evolución de los Lenguajes de Programación
+1.2 Sistemas de numeración
