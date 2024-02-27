@@ -35,5 +35,14 @@ Específicos:
 
 *CONTENIDOS
 
-1.1 Historia y Evolución de los Lenguajes de Programación
-1.2 Sistemas de numeración
+1. Historia.
+2. Evolución de los lenguajes de Programación.
+3. Sistema numerico Binario.
+4. Sistema numerico Octal.
+5. Sistema numerico Hexadecimal.
+6. Conversión entre sistemas de numeración.
+7. Suma y Resta en decimal, Hexadecimal y Octal.
+8. Multiplicación en decimal.
+9. Multiplicación en octal, hexadecimal y binario.
+10. División en decimal, Hexadecimal, Octal y binario.
+11. Complemento 1 y 2 de un número.
